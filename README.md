@@ -1,5 +1,13 @@
-# 💫 About Me:
-# 💫 About Me:<br>I'm Shaik Jaleel Basha — an aspiring Software Developer passionate about crafting full-stack web applications and mobile apps using modern technologies like React.js, Spring Boot, and Jetpack Compose, React Native.<br><br>🔭 I’m currently working on an AI-powered content management system using React, Spring Boot & MongoDB, MysQl.  <br>🤝 I’m looking to collaborate on full-stack projects, open-source contributions, and React Native apps, React, SpringBoot.  <br>💬 I’m looking for help with AWS DevOps pipelines, scalable architecture, and real-time systems.  <br>🌱 I’m currently learning System Design, Kubernetes, and Advanced DSA for interviews.  <br>💡 Ask me about Java, Spring Boot, React.js, Firebase, or mobile development with Kotlin, React Native.  <br>🎉 Fun fact: I love scriptwriting and storytelling — one day, I’ll build an interactive story app that merges tech with theatre!
+## 💫 About Me
+
+I'm **Shaik Jaleel Basha** — an aspiring Software Developer passionate about crafting full-stack web & mobile apps using **React.js**, **Spring Boot**, **React Native**, and **Jetpack Compose**.
+
+- 🔭 Currently building an AI-powered CMS using React, Spring Boot, MongoDB & MySQL  
+- 🤝 Open to collaborating on full-stack, React Native, and Spring Boot projects  
+- 💬 Seeking guidance on AWS DevOps pipelines & scalable system architecture  
+- 🌱 Learning System Design, Kubernetes, and Advanced DSA  
+- 💡 Ask me about Java, Spring Boot, React, Firebase, or mobile dev with Kotlin  
+- 🎉 Fun fact: I love storytelling — working on an app that merges tech & theatre
 
 
 ## 🌐 Socials:
